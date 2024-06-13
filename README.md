@@ -23,7 +23,6 @@ git clone https://github.com/alphatra/IPP2024-Acoustic_levitator.git
 ```
 
 ## Współpraca
-Jeśli masz pomysły na rozwój projektu lub chcesz zgłosić błąd, nie wahaj się użyć sekcji Issues lub Pull Requests.
 
 ## Licencja
 Projekt udostępniony jest na licencji MIT. Szczegółowe informacje znajdziesz w pliku LICENSE.
